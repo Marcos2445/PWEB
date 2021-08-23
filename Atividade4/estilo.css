@@ -1,0 +1,95 @@
+header{
+    background-color: rgb(87, 85, 85);  
+    color: white;
+    display:flex;
+    text-align: center;
+    
+    
+}
+body{
+    
+    background-color: black;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+nav{   
+    width: 150px;
+    height: 0%;
+    position: fixed;       
+    z-index: 1; /*sobrepor*/
+    overflow: hidden; /*texto não passar*/
+    background-color: rgb(87, 85, 85);
+}
+nav a{
+    color:white;
+    font-size: 20px;
+    display: block;
+    padding: 12px 10px 12px 12px;
+    
+}
+nav a:hover{
+    background-color: white;
+    color: black;
+}
+footer{
+    color: white;
+}
+footer p{
+    text-align: right;
+}
+section{
+    text-align: center;
+     
+}
+h1 {
+    color: white;
+}
+article{
+    margin-left: 180px;
+    background-color: rgb(77, 77, 77);
+    padding: 15px;
+    border-radius: 10px;
+    width: 1000px;
+    display: flex;
+    
+    
+}
+
+h1#titulo{
+    background-color: rgb(87, 85, 85);
+    padding: 150px;
+}
+
+img{
+    margin-top: 5px;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    border: solid black;
+}
+.Nomefilmser{
+    color: black;
+    background-color: rgb(173, 173, 173);
+    height: 30px;
+    margin-left: 5px;
+    border-radius: 7px;
+    border: solid;
+    
+}
+div p{
+    color: black;
+    background-color: rgb(173, 173, 173);
+    height: 200px;
+    width: 500px;
+    margin-left: 0px;  
+    border: solid;
+}
+div footer{
+    text-align: left;
+}
+article:hover{
+    background-color: rgb(36, 32, 32);
+}
