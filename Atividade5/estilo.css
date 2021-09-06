@@ -1,0 +1,282 @@
+header{
+    
+    background-color: rgb(196,24,13);
+    color: black;
+    display: flex;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+section{
+    background-color: rgba(224, 224, 224, 0.425);
+}
+
+#logo{
+    width:5% ;
+    padding-left: 49%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+body{
+    margin: 0%
+}
+nav{
+    background-color: rgb(196,24,13);
+    color: white;
+}
+nav a{
+    padding-left: 14%;
+}
+.flex{
+    display: flex;
+    
+}
+
+#not1{
+  
+    width: 450px;
+    height: 500px;    
+    margin: 50px;
+    overflow: hidden;
+   
+    
+}
+
+#not1 img{
+    position: absolute;
+    width: 450px;
+    height: 500px;    
+    
+    
+}
+
+
+#not1 p{
+position: absolute;
+background-color: rgba(0, 0, 0, 0.459);   
+z-index: 1;
+margin-top: 407px;
+color: white;
+font-size: 20pt;
+width: 450px;
+
+    
+}
+
+#not2{
+    
+    width: 650px;
+    height: 225px;    
+    margin: 50px;
+    overflow: hidden;
+}
+#not2 img{
+    
+    width: 650px;
+    height: 225px;    
+    position: absolute;
+}
+
+#not2 p{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.459);   
+    z-index: 1;
+    margin-top: 162px;
+    color: white;
+    font-size: 20pt;
+    width: 650px;
+    
+        
+    }
+    
+   
+
+#not3{
+    background-color: rgb(255, 73, 179);
+    width: 650px;
+    height: 225px;    
+    margin: 50px;
+    overflow: hidden;
+    
+}
+
+#not3 img{
+    
+    width: 650px;
+    height: 225px;    
+    position: absolute;
+}
+
+#not3 p{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.459);   
+    z-index: 1;
+    margin-top: 162px;
+    color: white;
+    font-size: 20pt;
+    width: 650px;
+    
+        
+    }
+
+#not4{
+    background-color: rgb(255, 0, 0);
+    width: 650px;
+    height: 225px;    
+    margin: 50px;
+    overflow: hidden;
+}
+#not4 img{
+    
+    width: 650px;
+    height: 225px;    
+    position: absolute;
+}
+
+#not4 p{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.459);   
+    z-index: 1;
+    margin-top: 162px;
+    color: white;
+    font-size: 20pt;
+    width: 650px;
+    
+        
+    }
+#not5{
+    background-color: rgb(255, 230, 0);
+    width: 650px;
+    height: 225px;    
+    margin: 50px;
+    overflow: hidden;
+}
+
+#not5 img{
+    
+    width: 650px;
+    height: 225px;    
+    position: absolute;
+}
+
+#not5 p{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.459);   
+    z-index: 1;
+    margin-top: 162px;
+    color: white;
+    font-size: 20pt;
+    width: 650px;
+    
+        
+    }
+
+#not6{
+    background-color: rgb(0, 255, 0);
+    width: 650px;
+    height: 225px;    
+    margin: 50px;
+    overflow: hidden;
+}
+#not6 img{
+    
+    width: 650px;
+    height: 225px;    
+    position: absolute;
+}
+
+#not6 p{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.459);   
+    z-index: 1;
+    margin-top: 195px;
+    color: white;
+    font-size: 20pt;
+    width: 650px;
+    
+        
+    }
+
+
+#not7{
+    background-color: rgb(255, 0, 221);
+    width: 650px;
+    height: 225px;    
+    margin: 50px;
+    overflow: hidden;
+}
+
+#not7 img{
+    
+    width: 650px;
+    height: 225px;    
+    position: absolute;
+}
+
+#not7 p{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.459);   
+    z-index: 1;
+    margin-top: 195px;
+    color: white;
+    font-size: 20pt;
+    width: 650px;
+    
+        
+    }
+#not8{
+    background-color: rgb(97, 97, 97);
+    width: 450px;
+    height: 500px;    
+    margin: 50px;
+    overflow: hidden;
+}
+#not8 img{
+    position: absolute;
+    width: 450px;
+    height: 500px;    
+    
+    
+}
+
+
+#not8 p{
+position: absolute;
+background-color: rgba(0, 0, 0, 0.459);   
+z-index: 1;
+margin-top: 437px;
+color: white;
+font-size: 20pt;
+width: 450px;
+
+    
+}
+#not9{
+    background-color: rgb(126, 251, 255);
+    width: 450px;
+    height: 500px;    
+    margin: 50px;
+    overflow: hidden;
+}
+#not9 img{
+    position: absolute;
+    width: 450px;
+    height: 500px;    
+    
+    
+}
+
+
+#not9 p{
+position: absolute;
+background-color: rgba(0, 0, 0, 0.459);   
+z-index: 1;
+margin-top: 437px;
+color: white;
+font-size: 20pt;
+width: 450px;
+
+    
+}
