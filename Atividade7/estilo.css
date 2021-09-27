@@ -1,0 +1,55 @@
+body {
+    background: rgb(110, 112, 247);
+    font: normal 15pt Arial;
+    }
+    
+    header{
+    color: white;
+    text-align: center;
+    
+    }
+   h1{
+       text-align: center;
+   }
+   h1#dep{
+    font-size: 100px;
+    padding-left: 100px;
+   }
+    section{
+    background: white;
+    border-radius:  10px;
+    padding: 15px;
+    width: 700px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.438);
+    
+    }
+    a{
+        text-decoration: none;
+    }
+    div#escolha{
+        display: flex;
+        background-color: rgb(173, 206, 255);
+    }
+    div#escomaq{
+        background-color: rgb(255, 182, 182);
+    }
+    div#escolha h1{
+        font-size: 100px;
+        padding-left: 100px;
+    }
+    div#resultado{
+        background-color: rgb(199, 199, 199);
+    }
+    footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    }
+    button{
+        font-size: 100px;
+        
+    }
+    div#dnv{
+        text-align: center;
+    }
