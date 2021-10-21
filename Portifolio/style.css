@@ -1,0 +1,45 @@
+
+body{
+    background-color: black;
+    text-align: center;
+    color: rgb(66,201,32);
+}
+
+#titulopg1{
+
+    color: rgb(66,201,32);
+    
+}
+.escolha{
+padding: 5%;
+padding-top: 0% ;
+}
+.escolha:hover{  
+   
+   filter:drop-shadow(0 0 5px  rgb(255, 255, 255));
+    }
+#mãos{
+    display: flex;
+    padding-left: 10%;
+}
+#Eu{
+    width: 20%;
+  padding-bottom: 0%;
+}
+#azul{
+
+    width: 50%;
+}
+#verm{
+    
+    width: 50%;
+}
+.barra {
+    width: 300px;
+    height: 20px;
+    background-color: rgb(66,201,32);
+    
+    
+    /* todos os cantos como é um quadrado poderia colocar 
+     border-radius: 10px */
+}
