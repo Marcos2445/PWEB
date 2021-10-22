@@ -4,7 +4,8 @@ function crescerbarrajs(){
     img.setAttribute('src', 'cadabert.png');
     img.setAttribute('alt', 'cadeado aberto')
     document.getElementById('barrajs').style.width = '300px';
-    document.getElementById('barrajs').textContent='80%';
+    document.getElementById('barrajs').textContent='JavaScript';
+    document.getElementById('js').textContent='';
    }
    function crescerbarrahtml(){
     
@@ -12,7 +13,8 @@ function crescerbarrajs(){
     img.setAttribute('src', 'cadabert.png');
     img.setAttribute('alt', 'cadeado aberto')
     document.getElementById('barrahtml').style.width = '350px';
-    document.getElementById('barrahtml').textContent='90%';
+    document.getElementById('barrahtml').textContent='HTML';
+    document.getElementById('htmltxt').textContent='';
    }
    function crescerbarracss(){
     
@@ -20,7 +22,8 @@ function crescerbarrajs(){
     img.setAttribute('src', 'cadabert.png');
     img.setAttribute('alt', 'cadeado aberto')
     document.getElementById('barracss').style.width = '320px';
-    document.getElementById('barracss').textContent='60%';
+    document.getElementById('barracss').textContent='CSS';
+    document.getElementById('csstxt').textContent='';
 
    }
    function crescerbarrasql(){
@@ -29,7 +32,10 @@ function crescerbarrajs(){
     img.setAttribute('src', 'cadabert.png');
     img.setAttribute('alt', 'cadeado aberto')
     document.getElementById('barrasql').style.width = '330px';
-    document.getElementById('barrasql').textContent='85%';
+    document.getElementById('barrasql').textContent='Oracle sql';
+    document.getElementById('sql').textContent='';
+
+    
 
    }
    function crescerbarrajava(){
@@ -38,7 +44,8 @@ function crescerbarrajs(){
     img.setAttribute('src', 'cadabert.png');
     img.setAttribute('alt', 'cadeado aberto')
     document.getElementById('barrajava').style.width = '200px';
-    document.getElementById('barrajava').textContent='40%';
+    document.getElementById('barrajava').textContent='Java';
+    document.getElementById('javatxt').textContent='';
 
    }
    function mudarcara(){

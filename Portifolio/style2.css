@@ -3,7 +3,7 @@ header{
 }
 body{
     background-color: black;
-    
+    font-family: monospace;
     color: rgb(66,201,32);
 }
 
@@ -13,9 +13,24 @@ body{
     background-color: rgb(66,201,32);
     transition: width 2s;
     filter:drop-shadow(0 0 5px  rgb(199, 255, 213));
-    color: rgb(0, 78, 26);
+    color: rgb(255, 255, 255);
     text-align: center;    
    font-family: monospace;
+}
+#barrajs{
+    overflow:hidden ;
+}
+#barrahtml{
+    overflow:hidden ;
+}
+#barracss{
+    overflow:hidden ;
+}
+#barrasql{
+    overflow:hidden ;
+}
+#barrajava{
+    overflow:hidden ;
 }
 .balaofala{
     width: 50%;   
