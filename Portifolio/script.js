@@ -75,7 +75,7 @@ function crescerbarrajs(){
     img.setAttribute('alt', 'eu')
    }
    function fala2errada(){
-    document.getElementById('balfala2').textContent='??? em mim não no balão';
+    document.getElementById('balfala2').textContent='??? em mim, não no balão';
     var img = window.document.getElementById('bocaaberta2');
     img.setAttribute('src', 'bocaaberta31.png');
     img.setAttribute('alt', 'eu bravo')
