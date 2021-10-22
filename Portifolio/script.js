@@ -56,7 +56,7 @@ function crescerbarrajs(){
 
   // }
    function fala1(){
-    document.getElementById('balfala1').textContent='Primeiramente ótima escolha, agora aqui embaixo você pode ver meu nível de conhecimento em algumas coisas. Você precisa quebrar a segurança para ver meus dados      (só clicar nos cadeados)';
+    document.getElementById('balfala1').textContent='Primeiramente ótima escolha, eu me chamo Marcos e agora aqui embaixo você pode ver meu nível de conhecimento em algumas coisas. Você precisa quebrar a segurança para ver meus dados      (só clicar nos cadeados)';
     var img = window.document.getElementById('bocaaberta');
     img.setAttribute('src', 'bocaaberta3.png');
     img.setAttribute('alt', 'eu ')
