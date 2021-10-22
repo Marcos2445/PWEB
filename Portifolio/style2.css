@@ -42,7 +42,7 @@ body{
     filter:drop-shadow(0 0 5px  rgb(199, 255, 213));
 }
 #bocaaberta:hover{
-    width: 7%;
+ 
     filter:drop-shadow(0 0 5px  rgb(199, 255, 213));
 }
 #bocaaberta{
