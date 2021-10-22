@@ -38,7 +38,7 @@ body{
     width: 5%;
 }
 .cadfechado:hover{
-    width: 5%;
+    
     filter:drop-shadow(0 0 5px  rgb(199, 255, 213));
 }
 #bocaaberta:hover{
@@ -54,7 +54,7 @@ body{
     
 }
 #bocaaberta2:hover{
-    width: 7%;
+    
     filter:drop-shadow(0 0 5px  rgb(199, 255, 213));
 }
 #bocaaberta3{
@@ -62,7 +62,7 @@ body{
     
 }
 #bocaaberta3:hover{
-    width: 7%;
+    
     filter:drop-shadow(0 0 5px  rgb(199, 255, 213));
 }
 #falando1{
