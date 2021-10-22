@@ -16,6 +16,7 @@ body{
     color: rgb(255, 255, 255);
     text-align: center;    
    font-family: monospace;
+   
 }
 #barrajs{
     overflow:hidden ;
@@ -40,6 +41,7 @@ body{
     font-family: monospace;
     border-style: dotted;
     border-color: rgb(22,159,99);
+    border-radius: 5%;
 }
 .balaofala:hover{
     filter:drop-shadow(0 0 5px  rgb(199, 255, 213));
