@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: rgb(58, 58, 58);
+    background-image: url(parede.jpg);
+    
+}
+section{
+ 
+}
+#janela{
+    margin-top: 5%;
+    width: 50%;   
+    background-color: rgb(64, 185, 255);
+    margin-left: 5%;
+}
+#mosca{
+    height: 20px;
+    margin-left: 50px;
+    margin-top: 8px;
+}
+
+
+    
