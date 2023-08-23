@@ -3,7 +3,7 @@ function crescerbarrajs(){
     var img = window.document.getElementById('cadfechadojs');
     img.setAttribute('src', 'cadabert.png');
     img.setAttribute('alt', 'cadeado aberto')
-    document.getElementById('barrajs').style.width = '300px';
+    document.getElementById('barrajs').style.width = '400px';
     document.getElementById('barrajs').textContent='JavaScript';
     document.getElementById('js').textContent='';
    }
@@ -12,7 +12,7 @@ function crescerbarrajs(){
     var img = window.document.getElementById('cadfechadohtml');
     img.setAttribute('src', 'cadabert.png');
     img.setAttribute('alt', 'cadeado aberto')
-    document.getElementById('barrahtml').style.width = '350px';
+    document.getElementById('barrahtml').style.width = '400px';
     document.getElementById('barrahtml').textContent='HTML';
     document.getElementById('htmltxt').textContent='';
    }
@@ -31,7 +31,7 @@ function crescerbarrajs(){
     var img = window.document.getElementById('cadfechadosql');
     img.setAttribute('src', 'cadabert.png');
     img.setAttribute('alt', 'cadeado aberto')
-    document.getElementById('barrasql').style.width = '330px';
+    document.getElementById('barrasql').style.width = '430px';
     document.getElementById('barrasql').textContent='Oracle sql';
     document.getElementById('sql').textContent='';
 
@@ -43,7 +43,7 @@ function crescerbarrajs(){
     var img = window.document.getElementById('cadfechadojava');
     img.setAttribute('src', 'cadabert.png');
     img.setAttribute('alt', 'cadeado aberto')
-    document.getElementById('barrajava').style.width = '200px';
+    document.getElementById('barrajava').style.width = '450px';
     document.getElementById('barrajava').textContent='Java';
     document.getElementById('javatxt').textContent='';
 
@@ -63,7 +63,7 @@ function crescerbarrajs(){
 
   // }
    function fala1(){
-    document.getElementById('balfala1').textContent='Primeiramente ótima escolha, eu me chamo Marcos e agora aqui embaixo você pode ver meu nível de conhecimento em algumas coisas. Você precisa quebrar a segurança para ver meus dados      (só clicar nos cadeados)';
+    document.getElementById('balfala1').textContent='Primeiramente, ótima escolha, eu me chamo Marcos e agora aqui embaixo você pode ver meu nível de conhecimento. Você precisa quebrar a segurança para ver os dados   (só clicar nos cadeados)';
     var img = window.document.getElementById('bocaaberta');
     img.setAttribute('src', 'bocaaberta3.png');
     img.setAttribute('alt', 'eu ')
