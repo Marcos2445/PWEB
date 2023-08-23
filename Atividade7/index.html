@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jokenpo</title>
+    <link rel="shortcut icon" href="pedra.png" type="image/x-icon">
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
@@ -13,32 +14,33 @@
     </header>
 
     <section>
-        <div id="escolha">
-       
-            
-            <h1 id="pedra"  onclick="jogope()">👊 </h1>
-            
-     
-            <h1 id="papel" onclick="jogopa()"> ✋ </h1>
-        
-            <h1 id="tesoura" onclick="jogote()">✌️ </h1>
-       
-        </div>
-        <div id="escomaq">
-            <h1>jogada da maquina</h1>
-        </div>
-        <div id="resultado">
-            
-              <h1 id="res">Resultado</h1>
-             
-        </div>
-        <div id="dnv">
-            <a href="index.html">
-                <h1>🔄</h1>
-            </a>
-            
-            
-        </div>
+<div id="jogo">
+    
+    <div id="escolha">
+        <h1>Jogada do Jogado</h1>
+            <div id="escolhaJogador">
+                <h1 id="pedra"  onclick="jogope()" ><img src="pedra.png" alt="pedra" id="imgPedra" class="escolha"> </h1>
+                <h1 id="papel" onclick="jogopa()"> <img src="papel.png" alt="papel" id="imgPapel" class="escolha"> </h1>
+                <h1 id="tesoura" onclick="jogote()"><img src="tesoura.png" alt="tesoura" id="imgTesoura" class="escolha"> </h1>
+            </div>
+    </div>
+    <div id="escomaq">
+        <h1>jogada da Maquina</h1>
+        <div id="escolhaMaquina">
+            <h1 id="pedra"  onclick="jogope()" ><img src="pedra.png" alt="pedra" id="imgPedraMaq" class="escolhaMaq"> </h1>
+    
+            <h1 id="papel" onclick="jogopa()"> <img src="papel.png" alt="papel" id="imgPapelMaq" class="escolhaMaq"> </h1>
+            <h1 id="tesoura" onclick="jogote()"><img src="tesoura.png" alt="tesoura" id="imgTesouraMaq"class="escolhaMaq" > </h1>
+    </div>
+    </div>
+    <div id="resultado">  
+        <h1 id="res">Resultado</h1>
+        <h1 id="result"><img src="juiz.png" alt="resultado" id="imgResultado"> </h1>
+        <h1 id="respostaRes"></h1>
+  </div>
+</div>
+
+
     </section>
 
     <footer>
